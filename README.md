@@ -1,9 +1,10 @@
-# Le vrai Valouzz !!
+# Enchanté, Valentin !!
 
 J'adore regarder des animes et jouer à des jeux vidéo (grand fan de Rocket League perso).
 
+Mon setup : <br>
 
-<img src="https://www.exitlag.com/blog/wp-content/uploads/2025/06/fennec-rocket-league5-1024x576.webp" width="500"/>
+<img src="./MySetUp.jpeg" alt="Aperçu" width="600">
 
 # Mes Projets
 ## [FireForce]("https://github.com/VALZZ-code-67/FireForce") 🚒
