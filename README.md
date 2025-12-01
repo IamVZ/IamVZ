@@ -1,10 +1,19 @@
-# Enchanté, Valentin !!
+# Hello World !!
 
-J'adore regarder des animes et jouer à des jeux vidéo (grand fan de Rocket League perso).
+## A propos de moi
+Je m'appelle Valentin, j'ai 19ans et je suis actuellement à l'université de Strasbourg dans le cadre d'un BUT en concéption et développement d'application.
+J'adore regarder des animes, jouer à des jeux vidéo (grand fan de Rocket League perso) et sortir le weekend avec des amis.
 
 Mon setup : <br>
 
 <img src="./MySetUp.jpeg" alt="Aperçu" width="600">
+
+# Compétences
+
+**Langages :** <br><br> <img src="https://skillicons.dev/icons?i=c,cs,dotnet,java,php,python,html,css,javascript,sqlite" />
+
+**Outils :** <br><br><img src="https://skillicons.dev/icons?i=linux,windows,bash,idea,vim,visualstudio,laravel,vscode,unity" />
+
 
 # Mes Projets
 ## [FireForce]("https://github.com/VALZZ-code-67/FireForce") 🚒
