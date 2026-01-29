@@ -4,7 +4,7 @@
 Je m'appelle Valentin, j'ai 19ans et je suis actuellement à l'université de Strasbourg dans le cadre d'un BUT en concéption et développement d'application.
 J'adore regarder des animes, jouer à des jeux vidéo (grand fan de Rocket League perso) et sortir le weekend avec des amis.
 
-<a src="./CV_Valentin_Zou.pdf">Mon CV ici.</a> 
+[Mon CV ici](./CV_Valentin_Zou.pdf)
 
 Mon setup : <br>
 
